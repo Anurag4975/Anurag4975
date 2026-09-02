@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning alot of things which is quite tedious but i love to explore the technology around me 
 - 💞️ I’m looking to collaborate on space technology  
 - 📫 How to reach me Anurag919 on facebook
+Software Engineer | AI & Automation | Full-Stack Development | Building practical products that solve real problems.
 
 <!---
 Anurag4975/Anurag4975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
